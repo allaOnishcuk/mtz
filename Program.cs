@@ -10,7 +10,7 @@ namespace mtz
     {
         static void Main(string[] args)
         {
-            string a = "Hello World!";
+            string a = "Hello world!";
             Console.WriteLine(a);
         }
     }
