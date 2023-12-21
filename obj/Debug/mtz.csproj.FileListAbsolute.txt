@@ -1,0 +1,7 @@
+C:\Users\DITO\source\repos\mtz\mtz\bin\Debug\mtz.exe.config
+C:\Users\DITO\source\repos\mtz\mtz\bin\Debug\mtz.exe
+C:\Users\DITO\source\repos\mtz\mtz\bin\Debug\mtz.pdb
+C:\Users\DITO\source\repos\mtz\mtz\obj\Debug\mtz.csproj.AssemblyReference.cache
+C:\Users\DITO\source\repos\mtz\mtz\obj\Debug\mtz.csproj.CoreCompileInputs.cache
+C:\Users\DITO\source\repos\mtz\mtz\obj\Debug\mtz.exe
+C:\Users\DITO\source\repos\mtz\mtz\obj\Debug\mtz.pdb
